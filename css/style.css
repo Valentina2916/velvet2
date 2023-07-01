@@ -1,0 +1,60 @@
+.caja {
+    background-color: rgb(237, 233, 241);
+    padding: 2px; 
+}
+.caja h1 {
+    font-size: 45px;
+    color: rgb(219, 15, 131);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+.caja  img {
+    width: 100px;
+    margin-left: 10px;
+    border-radius: 50px;
+    float: left; 
+}
+.caja li {
+    display: flex;
+    margin-left: 150px;
+    }
+.carousel-item img {
+max-width: 50%;
+    margin: 170px;
+
+}
+.caja-3 {
+    background-color: rgb(200, 180, 219);
+    padding: 20px; 
+}
+.caja-3 h1 {
+    font-size: 30px;
+    color: rgb(219, 15, 131);
+    font-family: 'Times New Roman', Times, serif;
+}
+.caja-3 p
+{
+    font-size: 20px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.caja-4 h1 { 
+    font-size: 20px;
+    color: rgb(219, 15, 131);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+.caja-5 {
+    background-color: rgb(164, 119, 209);
+}
+
+.caja-5 h1 {
+
+    font-size: 30px;
+    color: rgb(219, 15, 131);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.caja-5 img {
+    width: 200px;
+    border-radius: 20px;
+}
